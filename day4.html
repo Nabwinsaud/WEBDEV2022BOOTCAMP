@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Day 5 of html</title>
+  </head>
+  <!-- inputs are inline elements -it doesnot break the line  -->
+    <!-- inputs in html- inputs are used to take user input while filling form -->
+    <!-- userName: -->
+   <label for="username">username</label>
+   <input type="text" placeholder="john doe" minlength="3" maxlength="6" id="username">
+    <input type="number" placeholder="enter the number">
+    <!-- <input type="number" placeholder="Number"> -->
+    <input type="date">
+    <input type="email" placeholder="email">
+    <input type="password" placeholder="password">
+    <input type="color">
+    <input type="time">
+    <input type="button" value="logout">
+    <input type="checkbox">
+   
+    <input type="text" placeholder="Country name">
+    <!-- <button>login</button> -->
+  <label for="fullname">FullName</label>
+  <input type="text" placeholder="fullname" id="fullname">
+
+  <!-- check -->
+  <div>
+    <h3>Choose your favourite sports .</h3>
+  <label for="football">football</label>
+    <input type="checkbox" id="football">
+    <label for="cricket">cricket</label>
+    <input type="checkbox" id="cricket">
+  </div>
+
+  <!-- radio -->
+  <div>
+    <p>select your gender</p>
+    <label for="male">male</label>
+    <input type="radio" id="male" value="male">
+    <label for="female">female</label>
+    <input type="radio" id="female" value="female">
+  </div>
+
+
+  <!-- input type file -->
+  <!-- <input type="file"> -->
+  <label for="images">images only</label>
+  <br>
+  <input type="file" accept="image/*" id="images">
+  <br>
+  <label for="imagespng">imagewithpng</label>
+  <br>
+  <input type="file" accept="image/png" id="imagespng">
+  <br>
+  <label for="imagepdf">imagewithpdf</label>
+  <br>
+  <input type="file" accept="image/png,.pdf" id="imagepdf">
+  <!-- <input type="file" accept="image/png"> -->
+  <label for="audio">Audio</label>
+  <input type="file" accept="audio/*" id="audio">
+
+  <label for="video">Video file</label>
+<input type="file" accept="video/*">  
+  </body>
+</html>
