@@ -1,0 +1,23 @@
+/* display-block,inline,flex,grid,table */
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* justify-content: space-between; */
+  /* space-around */
+  /* horizontal */
+}
+h6 {
+  color: rgb(50, 200, 100);
+  font-size: 18px;
+}
+ul {
+  display: flex;
+}
+
+li {
+  list-style: none;
+  margin: 0 10px;
+  font-size: 18px;
+}

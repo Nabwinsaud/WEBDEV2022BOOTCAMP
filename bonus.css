@@ -1,0 +1,19 @@
+/* universal selector  */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*  flexbox-one dimensional layout either row or column */
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  /* horizontally main axis */
+  /*  */
+  /* horizontal show */
+}
+
+ul {
+  display: flex;
+}

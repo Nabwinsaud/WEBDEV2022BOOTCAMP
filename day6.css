@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap");
+
+/*color tyoography  */
+
+h4 {
+  /* color: red; */
+  /* color: rgb(20, 100, 80); */
+  /* 0-100% */
+  /* 0-360 */
+  /* a 0 to 1 */
+  color: rgba(200, 100, 50, 0.8);
+}
+
+/*  p*/
+/* p{
+
+} */
+
+.lorem {
+  /* font-family: "Courier New", Courier, monospace; */
+  /* font-family: Arial, Helvetica, sans-serif; */
+  /* font-family: "Roboto", sans-serif; */
+  /* font-family: */
+  /*  */
+  font-family: "Ubuntu", sans-serif;
+  /* font-weight: bold; */
+  /* font-weight: bolder; */
+  font-weight: lighter;
+  /* 100  to 900(bold) */
+}
+
+/* elemenet selecor(h1) .classname #idname */
+/* h5{
+
+} */
+
+/* .welcome{
+
+} */
+
+#welcome {
+  /* color:red; */
+  /* font-family: ; */
+  /* 100 to 900 */
+  /* font-weight: 500; */
+  /* font-size: */
+  /* font-size: large; */
+  /* font-size: larger; */
+  /* font-size: medium; */
+  /* font-size: small; */
+  /* px */
+  /* font-size:16px; */
+  /* font-size: 10px; */
+  /* font-size: 90px; */
+  /* font-style */
+}
+
+/* font-style */
+#welcome {
+  /* font-style: italic; */
+  /* font-style: normal; */
+  /* font-style: oblique; */
+}
+
+#para {
+  /* text-decoration: ; */
+  /* text-decoration: dashed; */
+  /* text-decoration: underline; */
+  /* text-decoration: line-through; */
+  /* text-decoration: dotted; */
+  /* text-decoration: overline; */
+}
+
+.section {
+  /* text-transform: uppercase; */
+}
+.heading {
+  /* text-transform: capitalize; */
+  /* text-transform: uppercase; */
+  /* text-transform: lowercase; */
+  /* text-transform: inherit; */
+  /* text-transform: initial; */
+  text-transform: inherit;
+}
+
+.heading-container {
+  /* color: green; */
+  color: rgba(200, 100, 50, 0.8);
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 2px;
+  /* line-height: 40px; */
+
+  /* 100 to 900 */
+  /* o to360 */
+}
+
+/* element ,class,id */
+
+#heading-para {
+  /* text-align */
+  /* text-align: center; */
+  /* text-align: left; */
+  /* text-align: right; */
+  /* text-align: justify; */
+  /* initlize overide left */
+}
+
+/* width height */
+
+section {
+  width: 300px;
+  height: 90px;
+  border: 1px solid gray;
+  /* padding: 50px; */
+  /* padding: 20px; */
+  /* padding-top: 40px;
+  padding-left: 60px;
+  padding-right: 40px;
+  padding-bottom: 40px; */
+  /* padding: 20px 40px; */
+  /* margin */
+  /* margin-top margin-right,margin-bottom,margin-left */
+  /* margin:20px; */
+  /* margin-top: 90px; */
+  /* margin-bottom: 100px; */
+  /* margin-left: 50px; */
+  /* margin-left: -50px; */
+  /* margin-right: 150px; */
+  /* margin: 20px 50px 40px 100px; */
+  /* margin: 20px; */
+  /* margin-top:20px,right:20px bottom:20px left:20px */
+  /* margin: 20px 40px; */
+  /* first two top & bottom right left */
+}
+
+h6 {
+  /* margin-top: 80px; */
+}
+
+/* flexbox grid(2D) ---- */
+/* flexbox -1D LAYOUT  */

@@ -1,0 +1,33 @@
+/* h3 {
+  color: green;
+} */
+
+/* .heading {
+  color: green;
+} */
+
+/* id selctor */
+/* #heading {
+  color: red;
+} */
+
+/* element selector -h3,p,h1toh6 ,span, tag,*/
+/* class selector-  .classname  */
+/* id selector */
+/* group selector */
+/* tyopography -font  */
+
+/* element selector -tag selctor (h1toh6,p ,span ,div header,) */
+
+h3 {
+  /* color:purple; */
+  /* color:rgb() red,green,blue */
+  /* color: */
+  /* color: rgb(220, 100, 50); */
+  /* color: rgb(20%, 30%, 50%); */
+  /* color: transparent; */
+  /* rgba red,green,blue,alpha(opacity) */
+  color: rgb(48, 101, 208);
+  color: rgb(17, 98, 111);
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+}
